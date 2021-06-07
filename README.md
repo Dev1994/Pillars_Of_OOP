@@ -90,7 +90,7 @@ class Rectangle:Shape
       }  
 }  
 ```
-## 3. What Is Polymorphism
+## 4. What Is Polymorphism
 Poly means many and Morph means forms. Polymorphism is the process in which an object or function take different forms.
 Real Life Example Of Polymorphism:
 Real life example of Polymorphism is mobile phone. It is a single object but it can be used for making calls, listening music, sending mails, taking pictures, etc (different forms).
